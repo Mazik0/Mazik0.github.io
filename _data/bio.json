@@ -9,7 +9,7 @@
     "summary": "Graduated with a B.S. in Software Engineering from Moringa School in Kenya. I am a versatile front-end developer passionate about crafting seamless digital experiences through clean HTML, modern CSS layouts, and dynamic JavaScript functionality",
     "location": { "address": "", "postalCode": "00505", "city": "Nairobi", "countryCode": "Kenya", "region": "East Africa" },
     "profiles": [
-      { "network": "gmail", "username": "Bruce Peter M.", "url": "mailto:brucepmasiko@gmail.com" }
+      { "network": "gmail", "username": "Bruce Peter M.", "url": "mailto:brucepmasiko@gmail.com" },
       { "network": "github", "username": "Mazik0", "url": "http://github.com/Mazik0" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
     ]
