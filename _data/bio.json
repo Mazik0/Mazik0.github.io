@@ -1,35 +1,32 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Bruce Masiko",
+    "label": "Web Developer",
+    "picture": "https://github.com/Mazik0.png",
+    "email": "brucepmasiko@gmail.com",
+    "phone": "+254111824793",
+    "website": "https://Mazik0.github.io",
+    "summary": "Graduated with a B.S. in Software Engineering from Moringa School in Kenya. I am a versatile front-end developer passionate about crafting seamless digital experiences through clean HTML, modern CSS layouts, and dynamic JavaScript functionality",
+    "location": { "address": "", "postalCode": "00505", "city": "Nairobi", "countryCode": "Kenya", "region": "East Africa" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "gmail", "username": "Bruce Peter M.", "url": "mailto:brucepmasiko@gmail.com" }
+      { "network": "github", "username": "Mazik0", "url": "http://github.com/Mazik0" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Web Design" },
+    { "name": "Artificial Intelligence" },
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "HTML5", "CSS3", "React", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "VS Code", "Ubuntu", "Git", "Chrome DevTools" ]
     }
   ],
   "education": [
