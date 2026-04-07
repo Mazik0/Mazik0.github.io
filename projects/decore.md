@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/newlogo-nobg.png
 title: "Decore Galore"
 date: 2025-09-31
 labels:
