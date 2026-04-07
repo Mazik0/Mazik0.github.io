@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Decore Galore"
-date: 2025
+date: 2025-09-31
 labels:
   - HTML
   - CSS
@@ -12,7 +12,7 @@ labels:
 summary: "An architectural design website I designed in 2025."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/newlogo-nobg.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
