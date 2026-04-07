@@ -7,7 +7,7 @@
     "phone": "+254111824793",
     "website": "https://Mazik0.github.io",
     "summary": "Graduated with a B.S. in Software Engineering from Moringa School in Kenya. I am a versatile front-end developer passionate about crafting seamless digital experiences through clean HTML, modern CSS layouts, and dynamic JavaScript functionality",
-    "location": { "address": "", "postalCode": "00505", "city": "Nairobi", "countryCode": "Kenya", "region": "East Africa" },
+    "location": { "address": "21714", "postalCode": "00505", "city": "Nairobi", "countryCode": "Kenya", "region": "" },
     "profiles": [
       { "network": "github", "username": "Mazik0", "url": "http://github.com/Mazik0" },
       { "network": "linkedin", "username": "Bruce Peter M.", "url": "https://www.linkedin.com/in/bruce-peter-m-b42340209/" }
@@ -26,6 +26,15 @@
     {
       "name": "Toolsets/OS",
       "keywords": [ "VS Code", "Ubuntu", "Git", "Chrome DevTools" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Moringa School, Nairobi, Kenya",
+      "area": "Software Engineering",
+      "studyType": "B.S.",
+      "startDate": "2023",
+      "endDate": "2024",
     }
   ],
 }
