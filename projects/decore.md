@@ -15,4 +15,4 @@ summary: "An architectural design website I developed in 2025."
 
 Decore Galore is an interior design website I developed using HTML, CSS & JavaScript.
 
-Source: <a href="https://mazik0-decore-galore.vercel.app/"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://mazik0-decore-galore.vercel.app/"><i class="large github icon "></i>maziko/decore-galore</a>
